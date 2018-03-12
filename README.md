@@ -1,6 +1,6 @@
 # my-website
 
-> A Vue.js project
+> My personal portfolio website
 
 ## Build Setup
 
